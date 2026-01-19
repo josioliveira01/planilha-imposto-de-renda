@@ -24,10 +24,8 @@ Desenvolvi uma planilha em Excel para organizar e facilitar o processo de declar
 > Este projeto demonstra minha capacidade de planejar, organizar, automatizar e proteger dados em Excel, alinhando boas práticas de análise e controle de informações.
 >
 
-## Realizado por
+## 👤 Autor
 
 **Josiane de Oliveira da Silva**  
-[LinkedIn – Josiane de Oliveira da Silva](https://www.linkedin.com/in/josiane-de-oliveira-da-silva/)  
-[GitHub – josioliveira01 (Josiane Oliveira)](https://github.com/josioliveira01)
-
+[LinkedIn – Josiane de Oliveira da Silva](https://www.linkedin.com/in/josioliveirasilva/?locale=en_US)  
 
